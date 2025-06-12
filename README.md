@@ -12,4 +12,4 @@ A página "Similaridades entre os dois mundos" busca aproximar o homem do campo 
 
 O projeto como um todo foi feito para que haja um novo olhar tanto de peritos no assunto quanto leigos que buscam a informação ou precisam ouvir ela, aproximando esses lados, e mostrando que é necessária colaboração diária entre ambas as partes, onde todo mundo se benefícia dessa cooperação.
 
-Para navegar no site é simples, use o clique esquerdo para clicar nas diferentes seções e acessar os links externos, também use o scroll do mouse para ler mais informações.
+Para navegar no site é simples, use o clique esquerdo do mouse para acessar as diferentes seções e acessar os links externos, também use o scroll do mouse para ler mais informações.
